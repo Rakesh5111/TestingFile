@@ -1,0 +1,1 @@
+Here a New folder contains the data of various Folders such as Login,User and Welcome. And that each folder contains the data of various files all are in same format.
